@@ -1,0 +1,1 @@
+void switchCase(char grade);

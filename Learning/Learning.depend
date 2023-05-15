@@ -1,0 +1,77 @@
+# depslib dependency file v1.0
+1684165663 source:c:\users\blear\documents\c\learning\main.c
+	<stdio.h>
+	<stdlib.h>
+	"library.h"
+	"calculator.h"
+	"switch.h"
+	"struct.h"
+	"whileLoop.h"
+	"forLoop.h"
+	"2darray.h"
+	"memoryAddress.h"
+	"pointers.h"
+	"variables.h"
+
+1683907338 source:c:\users\blear\documents\c\learning\max.c
+
+1683907338 c:\users\blear\documents\c\learning\max.c
+
+1683908069 source:c:\users\blear\documents\c\learning\library.c
+	<stdio.h>
+	<stdlib.h>
+
+1683907965 c:\users\blear\documents\c\learning\library.h
+
+1683909306 c:\users\blear\documents\c\learning\calculator.h
+
+1683918372 source:c:\users\blear\documents\c\learning\calculator.c
+	<stdio.h>
+
+1683917904 c:\users\blear\documents\c\learning\switch.h
+
+1683919672 source:c:\users\blear\documents\c\learning\switch.c
+	<stdlib.h>
+
+1683919469 source:c:\users\blear\documents\c\learning\struct.c
+
+1683919425 c:\users\blear\documents\c\learning\struct.h
+
+1683922482 source:c:\users\blear\documents\c\learning\whileloop.c
+	<stdio.h>
+
+1683919871 c:\users\blear\documents\c\learning\whileloop.h
+
+1683920544 c:\users\blear\documents\c\learning\forloop.h
+
+1684164372 source:c:\users\blear\documents\c\learning\forloop.c
+	<stdio.h>
+
+1683923198 c:\users\blear\documents\c\learning\2darray.h
+
+1683928576 source:c:\users\blear\documents\c\learning\2darray.c
+	<stdio.h>
+
+1684161334 c:\users\blear\documents\c\learning\memoryaddress.h
+
+1684161853 source:c:\users\blear\documents\c\learning\memoryaddress.c
+	<stdio.h>
+
+1684165508 source:c:\users\blear\documents\c\learning\arrays.c
+	<stdio.h>
+
+1684164564 source:c:\users\blear\documents\c\learning\pointers.c
+	<stdio.h>
+
+1684162857 c:\users\blear\documents\c\learning\pointers.h
+
+1684163040 c:\users\blear\documents\c\learning\variables.h
+
+1684163246 source:c:\users\blear\documents\c\learning\variables.c
+	<stdio.h>
+
+1684164834 c:\users\blear\documents\c\learning\files.h
+
+1684167164 source:c:\users\blear\documents\c\learning\files.c
+	<stdio.h>
+
